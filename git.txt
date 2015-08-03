@@ -1,0 +1,16 @@
+
+git clone git@github.com:zhaogaolong/test.git
+
+mkdir ansible
+touch ansible/test.txt
+vim ansible/test.txt 
+git add .
+git  commit
+git push -u origin master  
+
+
+
+
+
+
+
